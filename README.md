@@ -28,5 +28,8 @@
 #### _Reference_
 * _[GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)_ - GitHub helpsite for MD
 
+
+---
 ## Varied Repository
-Unix, Git, Python, R - _[Software Carpentry](https://software-carpentry.org/lessons/)_
+:bangbang: Not a fan of this layout
+* Unix, Git, Python, R - _[Software Carpentry](https://software-carpentry.org/lessons/)_
