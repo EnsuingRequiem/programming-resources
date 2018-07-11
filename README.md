@@ -1,21 +1,13 @@
 ## Programming Resources
 
----
 ##### *TODO* :interrobang:
 - [ ] Create Table of Contents
 ---
 ### _Table of Contents_
 #### *Languages*
 * [R](../blob/master/README.md#R)
-
-###### _Formatting Template_
-> ## Language
-> #### _Topic_ 
-> * _[link text](url)_ - useful information
-> * _[link text](url)_ - useful information
-
-
 ---
+
 ## R
 #### _Functions_
 * _[Software Carpentry](http://swcarpentry.github.io/r-novice-inflammation/02-func-R/index.html)_
@@ -31,5 +23,13 @@
 
 ---
 ## Varied Repository
-:bangbang: Not a fan of this layout
+:bangbang: Not sure how to tackle reference for more than one language
 * Unix, Git, Python, R - _[Software Carpentry](https://software-carpentry.org/lessons/)_
+
+---
+###### _Formatting Template_
+> ## Language
+> #### _Topic_ 
+> * _[link text](url)_ - useful information
+> * _[link text](url)_ - useful information
+---
