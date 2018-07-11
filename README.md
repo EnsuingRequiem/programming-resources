@@ -6,6 +6,18 @@
 ---
 
 
-###### _Formatting_:
+###### _Formatting Template_
 > ## Language
-> Topic - _[link](url)_
+> ##### _Topic_ 
+> * _[link](url)_
+> * _[link](url)_
+
+
+---
+## R
+##### _Functions_
+
+
+
+## Varied Repository
+Unix, Git, Python, R - _[Software Carpentry](https://software-carpentry.org/lessons/)_
