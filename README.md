@@ -4,18 +4,18 @@
 ##### *TODO* :interrobang:
 - [ ] Create Table of Contents
 ---
-
+### _Table of Contents_
 
 ###### _Formatting Template_
 > ## Language
-> ##### _Topic_ 
+> #### _Topic_ 
 > * _[link](url)_
 > * _[link](url)_
 
 
 ---
 ## R
-##### _Functions_
+#### _Functions_
 
 
 
