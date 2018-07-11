@@ -1,4 +1,4 @@
 # Programming Resources
 
-###### TODO
+###### *TODO*
 - [ ] Create Table of Contents
